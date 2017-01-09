@@ -1,0 +1,14 @@
+{
+    "name": "pacificnm/pacificnm-media-type",
+    "description": "Provides media type services",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jaimie Garner",
+            "email": "pacificnm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
